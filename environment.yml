@@ -1,8 +1,8 @@
 name: py34
 dependencies:
-- matplotlib=1.5.1=np110py34_0
-- pandas=0.18.0=np110py34_0
-- scipy=0.16.1=np110py34_p0
+- matplotlib=1.5.1
+- pandas=0.18.0
+- scipy=0.16.1
 - pip:
   - notebook==4.2.0
   - seaborn==0.7.0
